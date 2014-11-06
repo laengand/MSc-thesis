@@ -1,0 +1,10 @@
+*.tdo
+*.glo
+*.gls
+*.aux
+*.idx
+*.ilg
+*.ind
+*.toc
+*.out
+*.log
